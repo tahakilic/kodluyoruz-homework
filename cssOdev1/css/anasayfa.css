@@ -1,0 +1,20 @@
+/**************** Content *************/
+main{
+    margin: 0px auto;
+    width: 90%;
+}
+
+section{
+    position: relative;
+    text-align: center;
+}
+
+section>p{
+    color: #c0d8c0;
+}
+section>ul{
+    width: 10%;
+    position: relative;
+    margin: auto;
+    text-align: left;
+}
