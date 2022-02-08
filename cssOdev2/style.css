@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+}
+header{
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+}
+span{
+    display: block;
+}
+main{
+    width: 100%;
+    margin: 0px 0px;
+    position: relative;
+}
+
+.box1{
+    width: 100%;
+    height: 85px;
+    background-color: rgb(206, 206, 206);
+    text-align: center;
+    padding-top:15px ;
+}
+.box2{
+    display: flex;
+}
+
+.articleBox1{
+    width: 20%;
+    height: 80px;
+    background-color: aquamarine;
+    margin: 1px;
+    padding-top: 20px;
+}
+.articleBox2{
+    width: 30%;
+    height: 90px;
+    background-color: rgb(99, 209, 172);
+    margin-top: 1px;
+    padding-top: 10px;
+
+}
+.articleBox3{
+    width: 50%;
+    height: 90px;
+    background-color: rgb(41, 168, 126);
+    margin: 1px;
+    padding-top: 10px;
+}
+input[name="googleText"]{
+    width: 300px;
+    margin: 5px 0px;
+}
+
+.centerItem{
+    width: 100%;
+    height: 100px;
+}
+
+.block{
+    display: block;
+    margin: 0px;
+}
+.inlineBlock{
+    display: inline-block;
+}
+.textCenter{
+    text-align: center;
+    
+
+}
+
+/************ Footer *************/
+footer{
+    margin-top: 20px;
+}
