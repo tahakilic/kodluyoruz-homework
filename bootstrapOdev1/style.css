@@ -1,0 +1,30 @@
+h1{
+    display: inline-block;
+    margin-right:20px ;
+    font-size: 1.7em !important; 
+}
+
+a{
+    text-decoration: none !important;
+}
+nav>a{
+    margin: 0px 15px;
+    color: darkgray;
+}
+
+nav>a:hover{
+    color: aliceblue;
+}
+
+.headerNav{
+    background-color: rgb(65, 65, 65);
+}
+
+.button{
+    width: 150px !important;
+}
+
+
+.text-purple{
+    color: blueviolet !important;
+}
